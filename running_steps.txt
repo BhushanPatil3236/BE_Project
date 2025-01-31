@@ -1,0 +1,9 @@
+Step 1: run backend from debugging menu or (F5)
+step 2: after succesful run you'll got 127.0.0.1 ip that is for backend
+step3 : http://127.0.0.1:8000/admin/login/?next=/admin/ => this url for access admin panel
+
+
+step 4: run frontend using "vue ui" command without quotes in new terminal
+step 5: remember to run backend first then run frontend
+step 6: frontend panel automatically opens in your brawser
+step 7: just navigate to task => serve => click on run task
